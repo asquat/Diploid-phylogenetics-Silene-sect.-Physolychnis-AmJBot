@@ -1,7 +1,7 @@
 # Diploid-phylogenetics-Silene-sect.-Physolychnis-AmJBot
 This repository includes scripts and associated input files used in the study "Phylogenetic relationships and the identification of allopolyploidy in circumpolar Silene sect. Physolychnis", accepted in AmJBot in march 2025. DOI upon publication.
 
-For questions, contact asquatela@gmail.com with email subject "QUESTIONS Diploid-phylogenetics-Silene-sect.-Physolychnis-AmJBot".
+For questions, contact asquatela@gmail.com with email subject "QUESTIONS Diploid-phylogenetics-Silene-sect.-Physolychnis-AmJBot" or used dedicated sections on Github.
 
 It includes two folders:
 - Folder "input files", with the following files:
