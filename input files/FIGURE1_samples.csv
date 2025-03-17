@@ -1,1 +1,76 @@
-
+﻿platformID;species;acronym;LatDD;LongDD;specimenID;fullspecies;acronymfull
+P18903_1050;S. involucrata;INVOL;72.13;126.97;12597;Silene involucrata subsp. furcata (Raf.) Petrovsky & Elven;INFU1
+P18903_1080;S. involucrata;INVOL;69.58;-163.15;27057;Silene involucrata subsp. furcata (Raf.) Petrovsky & Elven;INFU2
+P24451_1040;S. involucrata;INVOL;68.34;-166.79;28104;Silene involucrata subsp. furcata (Raf.) Petrovsky & Elven;INFU3
+P24451_1025;S. involucrata;INVOL;68.74;161.34;14250;Silene involucrata subsp. involucrata ;ININ
+P24451_1031;S. involucrata;INVOL;67.900167;134.090927;14245;Silene involucrata subsp. tenella (Tolm.) Bocquet;INTE1
+P24451_1044;S. involucrata;INVOL;67.053983;130.399027;14303;Silene involucrata subsp. tenella (Tolm.) Bocquet;INTE2
+P18903_1065;S. soczavana;SOCZ1;68.50;-164.92;27991;Silene soczavana (Schischk.) Bocquet;SOCZ1
+P18903_1075;S. soczavana;SOCZ2;62.633;-142.724;26573;Silene soczavana (Schischk.) Bocquet;SOCZ2
+P18903_1076;S. soczavana;SOCZ3;64.47;-157.30;26585;Silene soczavana (Schischk.) Bocquet;SOCZ3
+P18903_1082;S. soczavana;SOCZ4;63;-149;27990;Silene soczavana (Schischk.) Bocquet;SOCZ4
+P18903_1091;S. soczavana;SOCZ5;68.28;-158.33;27056;Silene soczavana (Schischk.) Bocquet;SOCZ5
+P24451_1014;S. soczavana;SOCZ6;67.53;-155.05;28108;Silene soczavana (Schischk.) Bocquet;SOCZ6
+P24451_1024;S. soczavana;SOCZ7;70.43;-150.58;28109;Silene soczavana (Schischk.) Bocquet;SOCZ7
+P24451_1045;S. soczavana;SOCZ9;63.30;-170.00;28115;Silene soczavana (Schischk.) Bocquet;SOCZ9
+P18903_1006;S. uralensis;URAL1;68.48755;-149.3695;26572;Silene uralensis (Rupr.) Bocquet;URAL1
+P18903_1010;S. uralensis;URAL2;62.83;-66.58;27053;Silene uralensis (Rupr.) Bocquet;URAL2
+P18903_1013;S. uralensis;URAL3;51;85;27052;Silene uralensis (Rupr.) Bocquet;URAL3
+P18903_1015;S. uralensis;URAL4;72.18;128.05;26571;Silene uralensis (Rupr.) Bocquet;URAL4
+P18903_1016;S. uralensis;URAL5;65.25;-166.35;26987;Silene uralensis (Rupr.) Bocquet;URAL5
+P18903_1030;S. uralensis;URAL6;71.505;103.057;12594;Silene uralensis (Rupr.) Bocquet;URAL6
+P18903_1033;S. uralensis;URAL7;71.50472222;103.05694444;26606;Silene uralensis (Rupr.) Bocquet;URAL7
+P18903_1038;S. uralensis;URAL8;69.08;86.14;27988;Silene uralensis (Rupr.) Bocquet;URAL8
+P18903_1041;S. uralensis;URAL9;69.11;-105.05;17369;Silene uralensis (Rupr.) Bocquet;URAL9
+P18903_1059;S. uralensis;URAL10;69.87;-158.33;27049;Silene uralensis (Rupr.) Bocquet;URAL10
+P18903_1062;S. uralensis;URAL11;71.963;102.456;12593;Silene uralensis (Rupr.) Bocquet;URAL11
+P18903_1068;S. uralensis;URAL12;60.712;65.341;12617;Silene uralensis (Rupr.) Bocquet;URAL12
+P18903_1074;S. uralensis;URAL13;69.33;-145;27047;Silene uralensis (Rupr.) Bocquet;URAL13
+P24451_1003;S. uralensis;URAL14;76.50861111;-86.76666667;28163;Silene uralensis (Rupr.) Bocquet;URAL14
+P24451_1013;S. uralensis;URAL15;48.546395;107.506155;14594;Silene uralensis (Rupr.) Bocquet;URAL15
+P24451_1032;S. uralensis;URAL17;68.948706;-50.823919;28123;Silene uralensis (Rupr.) Bocquet;URAL17
+P24451_1047;S. uralensis;URAL18;72.00;-94.50;14399;Silene uralensis (Rupr.) Bocquet;URAL18
+P24451_1048;S. uralensis;URAL19;72.02;-94.23;14397;Silene uralensis (Rupr.) Bocquet;URAL19
+P18903_1017;S. uralensis subsp. arctica;URAR1;68.53;-161.46;26575;Silene uralensis subsp. arctica (Th.Fr.) Bocquet ;URAR1
+P18903_1021;S. uralensis subsp. arctica;URAR2;73.50;-23.16;27055;Silene uralensis subsp. arctica (Th.Fr.) Bocquet ;URAR2
+P18903_1051;S. uralensis subsp. arctica;URAR3;64;-83;27987;Silene uralensis subsp. arctica (Th.Fr.) Bocquet ;URAR3
+P18903_1071;S. uralensis subsp. arctica;URAR4;71.49916667;-156.86333333;26602;Silene uralensis subsp. arctica (Th.Fr.) Bocquet ;URAR4
+P18903_1084;S. uralensis subsp. arctica;URAR5;71.14611111;179.61833333;26601;Silene uralensis subsp. arctica (Th.Fr.) Bocquet ;URAR5
+P18903_1085;S. uralensis subsp. arctica;URAR6;69;-105;27048;Silene uralensis subsp. arctica (Th.Fr.) Bocquet ;URAR6
+P24451_1020;S. uralensis subsp. arctica;URAR7;69.633333;60.316667;28182;Silene uralensis subsp. arctica (Th.Fr.) Bocquet ;URAR7
+P24451_1022;S. involucrata;INVOL;78.4028;16.8598;28170;Silene involucrata subsp. furcata (Raf.) V.V.Petrovsky & Elven;INFU4
+P24451_1027;S. uralensis subsp. arctica;URAR8;69.43333333;-114.73333333;28168;Silene uralensis subsp. arctica (Th.Fr.) Bocquet ;URAR8
+P24451_1028;S. uralensis subsp. arctica;URAR9;71.49916667;-156.86333333;26602;Silene uralensis subsp. arctica (Th.Fr.) Bocquet ;URAR9
+P24451_1039;S. uralensis subsp. arctica;URAR11;74.54250000;-82.78333333;28164;Silene uralensis subsp. arctica (Th.Fr.) Bocquet ;URAR11
+P18903_1007;S. uralensis subsp. uralensis;URUR1;72.639633;122.499057;27058;Silene uralensis subsp. uralensis ;URUR1
+P18903_1020;S. uralensis subsp. uralensis;URUR2;69.40;86.18;27984;Silene uralensis subsp. uralensis ;URUR2
+P18903_1025;S. uralensis subsp. uralensis;URUR3;65.249;-166.402;7026;Silene uralensis subsp. uralensis ;URUR3
+P18903_1036;S. uralensis subsp. uralensis;URUR4;70.50;-54.20;27051;Silene uralensis subsp. uralensis ;URUR4
+P18903_1037;S. uralensis subsp. uralensis;URUR5;64.13;-83.28;27054;Silene uralensis subsp. uralensis ;URUR5
+P18903_1043;S. uralensis subsp. uralensis;URUR6;64.13;-83.15;27985;Silene uralensis subsp. uralensis ;URUR6
+P18903_1046;S. uralensis subsp. uralensis;URUR7;65.83611111;-171.39333333;26603;Silene uralensis subsp. uralensis ;URUR7
+P18903_1049;S. uralensis subsp. uralensis;URUR8;69.17;-148.92;27050;Silene uralensis subsp. uralensis ;URUR8
+P18903_1055;S. uralensis subsp. uralensis;URUR9;65.249;-166.402;7587;Silene uralensis subsp. uralensis ;URUR9
+P18903_1063;S. uralensis subsp. uralensis;URUR10;64.70;-166.22;26574;Silene uralensis subsp. uralensis ;URUR10
+P18903_1064;S. uralensis subsp. uralensis;URUR11;69;-51;27986;Silene uralensis subsp. uralensis ;URUR11
+P18903_1069;S. uralensis subsp. uralensis;URUR12;67.83;-115.16;27989;Silene uralensis subsp. uralensis ;URUR12
+P24451_1001;S. uralensis subsp. uralensis;URUR13;51.26;156.79;14240;Silene uralensis subsp. uralensis ;URUR13
+P24451_1006;S. uralensis subsp. uralensis;URUR14;62.753986;-92.277935;28191;Silene uralensis subsp. uralensis ;URUR14
+P24451_1009;S. uralensis subsp. uralensis;URUR15;55.93;159.11;14253;Silene uralensis subsp. uralensis ;URUR15
+P24451_1010;S. uralensis subsp. uralensis;URUR16;69.01;-163.75;28110;Silene uralensis subsp. uralensis ;URUR16
+P24451_1011;S. uralensis subsp. uralensis;URUR17;73.506564;80.324264;28128;Silene uralensis subsp. uralensis ;URUR17
+P24451_1012;S. uralensis subsp. uralensis;URUR18;71.963;102.902;12613;Silene uralensis subsp. uralensis ;URUR18
+P24451_1016;S. uralensis subsp. uralensis;URUR19;51.26;156.79;14241;Silene uralensis subsp. uralensis ;URUR19
+P24451_1017;S. uralensis subsp. uralensis;URUR20;64.61805556;-165.70138889;28165;Silene uralensis subsp. uralensis ;URUR20
+P24451_1021;S. uralensis subsp. uralensis;URUR21;70.5;-54.2;2604;Silene uralensis subsp. uralensis ;URUR21
+P24451_1026;S. uralensis subsp. uralensis;URUR22;65.83611111;-171.39333333;26603;Silene uralensis subsp. uralensis ;URUR22
+P24451_1030;S. uralensis subsp. uralensis;URUR23;68.9130;-164.6075;17361;Silene uralensis subsp. uralensis ;URUR23
+P24451_1033;S. uralensis subsp. uralensis;URUR24;70.95;179.58;28157;Silene uralensis subsp. uralensis ;URUR24
+P24451_1037;S. uralensis subsp. uralensis;URUR26;68.9130;-164.6075;17361;Silene uralensis subsp. uralensis ;URUR26
+P24451_1041;S. uralensis subsp. uralensis;URUR27;71.91666667;-93.45000000;28166;Silene uralensis subsp. uralensis ;URUR27
+P24451_1046;S. uralensis subsp. uralensis;URUR28;67.83;-115.16;28124;Silene uralensis subsp. uralensis ;URUR28
+P18903_1003;S. violascens;VIOL1;72.13;126.97;12595;Silene violascens (Tolm.) Petrovsky & Elven;VIOL1
+P18903_1026;S. violascens;VIOL2;71.08;127.55;12596;Silene violascens (Tolm.) Petrovsky & Elven;VIOL2
+P18903_1078;S. violascens;VIOL3;71.08;127.55;12596;Silene violascens (Tolm.) Petrovsky & Elven;VIOL3
+P18903_1061;S. wahlbergella;WAHL1;68;18;7681;Silene wahlbergella Chowdhuri;WAHL1
+P18903_1087;S. wahlbergella;WAHL2;62.33;9.62;7998;Silene wahlbergella Chowdhuri;WAHL2
